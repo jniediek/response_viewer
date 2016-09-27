@@ -1,0 +1,9 @@
+clusters:
+A artifact
+O okay
+E edit
+
+responses:
+R response
+M maybe
+N no response
